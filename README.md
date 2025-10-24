@@ -91,5 +91,32 @@ Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
 <img width="588" height="476" alt="image" src="https://github.com/user-attachments/assets/38bfb5d6-4bd0-4214-bc26-f1a64adc23f8" />
 
+# Acceptance Criteria
+
+-What is Acceptance Criteria?
+Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance Criteria (AC) are a critical component of Requirement Analysis because they clearly define the conditions a product or feature must meet for it to be considered complete and acceptable to the end-user or stakeholders. They bridge the gap between requirements and implementation by ensuring everyone shares the same understanding of what “done” looks like.
+
+Importance of Acceptance Criteria
+
+Acceptance Criteria ensure a shared understanding of what a feature must deliver. They make requirements clear, testable, and measurable, helping developers build the right solution and testers validate it. They reduce ambiguity, prevent scope creep, and improve product quality.
+
+# Example: Checkout Feature – Acceptance Criteria
+
+User Story:
+As a user, I want to checkout so I can confirm and pay for my booking.
+
+Acceptance Criteria:
+
+A summary of the booking must be displayed at checkout.
+
+User must provide required personal details before payment.
+
+At least one secure payment option must be available.
+
+System must show errors if required fields are missing or payment fails.
+
+After successful payment, a confirmation number and email must be sent to the user.
 
 
