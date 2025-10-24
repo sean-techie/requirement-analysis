@@ -56,7 +56,8 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 
 # Functional Requirements
 -This describes what the system should do.
-# Examples: 
+
+# Examples(for the booking system): 
 -User authentication
 
 -Property search
@@ -67,7 +68,8 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
  
 # Non-funtional Requirements
 -This describes how the system should perform. 
-# Examples:
+
+# Examples(for the booking system):
 -Performance
 
 -Security
