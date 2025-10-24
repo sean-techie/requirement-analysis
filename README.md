@@ -55,22 +55,19 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 # Types of Requirements
 
 # Functional Requirements
-
 -This describes what the system should do.
-
 # Examples: 
-User authentication
-property search
-booking system
-user registration
+-User authentication
+-Property search
+-Booking system
+-User registration
  
 # Non-funtional Requirements
-- This describes how the system should perform.
-  
+- This describes how the system should perform. 
 # Examples:
-Performance
-security
-scalability
-usability
-reliability
+-Performance
+-Security
+-Scalability
+-Usability
+-Reliability
 
