@@ -51,3 +51,5 @@ Modeling: Creating models (e.g., data flow diagrams, entity-relationship diagram
 Review and Approval: Reviewing the documented requirements with stakeholders to ensure accuracy and completeness.
 Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+# Types of Requirements
