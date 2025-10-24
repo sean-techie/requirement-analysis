@@ -66,7 +66,7 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 -User registration
  
 # Non-funtional Requirements
-- This describes how the system should perform. 
+-This describes how the system should perform. 
 # Examples:
 -Performance
 
