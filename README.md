@@ -57,7 +57,7 @@ Traceability: Establishing traceability matrices to ensure all requirements are 
 # Functional Requirements
 -This describes what the system should do.
 # Examples: 
-•User authentication
+-User authentication
 
 -Property search
 
